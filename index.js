@@ -4,3 +4,14 @@ function add(a, b) {
     return a + b;
 }
 console.log(add(5, 10));
+
+// this is coming from dev-ankur
+function parent(a) {
+    function child(b) {
+        return a * b;
+    }
+    return child
+}
+
+const ans = parent(10);
+console.log(ans(8));
