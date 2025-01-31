@@ -5,6 +5,9 @@ function add(a, b) {
 }
 console.log(add(5, 10));
 
+// This is git guide from jsm
+// hey John here!
+
 // this is coming from dev-ankur
 function parent(a) {
     function child(b) {
