@@ -21,4 +21,4 @@ console.log(ans(8));
 
 
 console.log("Hello Github");
-console.log("Git Revert!");
+
